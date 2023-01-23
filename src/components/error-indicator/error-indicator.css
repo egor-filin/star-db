@@ -1,0 +1,18 @@
+.error-indicator {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.error-indicator h4, 
+.error-indicator div {
+    color: tomato;
+}
+
+.error-indicator span {
+    color: tan;
+}
+
+.error-icon {
+    width: 50px;
+    margin-bottom: 10px;
+}
